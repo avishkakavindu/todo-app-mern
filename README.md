@@ -1,6 +1,6 @@
  Todo application with react, node.js, express and mongodb 
  
- - [ ] Create
+ - [x] Create
  - [ ] Read
  - [ ] Update
  - [ ] Delete 
